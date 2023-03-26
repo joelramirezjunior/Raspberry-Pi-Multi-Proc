@@ -1,0 +1,5 @@
+divide_alot.bin: 
+loop-100.bin: 
+loop-10000.bin: 
+mutiply_alot.bin: 
+recurse-alot.bin: 

@@ -1,0 +1,15 @@
+FOUND: </dev/cu.SLAB_USBtoUART>
+opened tty port </dev/cu.SLAB_USBtoUART>.
+pi-install: tty-usb=</dev/cu.SLAB_USBtoUART> program=<./test-basic/a.bin> about to boot
+TRACE:simple_boot: sending 2564 bytes, crc32=ba0a2fe2
+waiting for a start
+putting code
+pi sent print: <UART Teddy Zhang: success: Received the program!>
+bootloader: Done.
+listening on ttyusb=</dev/cu.SLAB_USBtoUART>
+poopoo
+DONE!!!
+
+Saw done
+
+bootloader: pi exited.  cleaning up

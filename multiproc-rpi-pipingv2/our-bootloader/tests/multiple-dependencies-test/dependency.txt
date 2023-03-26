@@ -1,0 +1,5 @@
+a.bin:
+b.bin:
+c.bin:
+d.bin: a.bin, b.bin, c.bin
+e.bin:

@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "simple-boot.h": "c",
+        "termios.h": "c",
+        "system_error": "c",
+        "myprogram.h": "c"
+    }
+}

@@ -1,0 +1,4 @@
+a.bin:
+b.bin: a.bin
+c.bin: a.bin
+d.bin: c.bin

@@ -1,0 +1,20 @@
+FOUND: </dev/cu.SLAB_USBtoUART>
+opened tty port </dev/cu.SLAB_USBtoUART>.
+pi-install: tty-usb=</dev/cu.SLAB_USBtoUART> program=<./linear-dependencies-test/d.bin> about to boot
+TRACE:simple_boot: sending 3048 bytes, crc32=2c7b0c1
+waiting for a start
+putting code
+pi sent print: <UART Teddy Zhang: success: Received the program!>
+bootloader: Done.
+listening on ttyusb=</dev/cu.SLAB_USBtoUART>
+continuing linear dependencies test.
+starting d, which is depended on by NOTHING. ----------------------
+from c, got output: ---10---
+TRACE:notmain:from c, got output: ---10---
+done with d. --------------------------------------
+done with all linear dependencies. you should see the correct value above, showing everything worked.
+DONE!!!
+
+Saw done
+
+bootloader: pi exited.  cleaning up

@@ -1,0 +1,8 @@
+myprogram
+*.a
+*.d
+*.o
+*.list
+*.elf
+*.bin
+*.DS_Store
